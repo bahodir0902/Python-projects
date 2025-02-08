@@ -2,7 +2,7 @@ import telebot
 import json
 import requests
 
-bot = telebot.TeleBot('7052279821:AAGCo403edWmgsreodEWP1UAtH2mZgf1C-8')
+bot = telebot.TeleBot('API_KEY')
 
 searching = False  
 ru_pressed = False
